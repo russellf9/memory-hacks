@@ -217,4 +217,4 @@
 
 98 = NH = [Neil Hamilton (politician)](http://en.wikipedia.org/wiki?curid=158224)
 
-99 = NN = 
+99 = NN = Nicholas Nickleby (Dickens)?
