@@ -11,7 +11,7 @@ _"...The Dominic System uses an easy-to-remember number-to-letter conversion and
 
 When creating my own mnemonic for the dominic system I largely based in on the Ron Hale-Evans' template [mnemonics_public.txt](dominic-system/mnemonics_public.txt), finding suitable replacements which focus on my interests of music and art.
 
-My compiled list is at: [dominic-template.txt](dominic-system/dominic_template.md)
+My compiled list is at: [dominic-template](dominic-system/dominic_template.md)
 
 ### Links:
 
