@@ -9,6 +9,8 @@ Based on the hacks found in: [Ron Hale-Evans. Mind Performance Hacks.](https://i
 
 _"...The Dominic System uses an easy-to-remember number-to-letter conversion and the initials of memorable people, as well as journeys that are like memory palaces..."_
 
+When creating my own mnemonic for the dominic system I largely based in on the Ron Hale-Evans' template [mnemonics_public.txt](mnemonics_public.txt), finding suitable replacements which focus on my interests of music and art.
+
 Links:
 
 An online list
