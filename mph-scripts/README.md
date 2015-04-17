@@ -23,3 +23,21 @@ Information and dropdown lists
 
 Actors initials
 [initials_of_characters_and_actors](http://www.creative-remembering-techniques.com/initials_of_characters_and_actors.html)
+
+
+## Scripts
+
+The code for all the hacks can ne downloaded online: [hacks](http://examples.oreilly.com/9780596101534/)
+
+To run for example:
+
+```
+# navigate to the scripts directory
+$ cd memory-hacks/scripts
+
+# Invoke the script by running the programming language’s interpreter and feeding it the script 
+$ perl scriptname.pl
+````
+
+
+

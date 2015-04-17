@@ -1,0 +1,115 @@
+#@activity@
+@funout@
+@funout@
+Order out from @takeout@. @funhome@
+Stay home. @funhome@
+
+#@funhome@
+Cook a tasty meal together.
+Design a game.
+Go catalog (window) shopping.
+Just talk together.
+Listen to @webradio@.
+Listen to some audio together (roll for which).
+Make jewelry together.
+Play @game@.
+Randomly surf the Web via @randomweb@.
+Read aloud.
+Reorganize @mess@.
+Watch a movie at home (make a list and roll).
+Work on a self-help book together.
+Work on the Glass Bead Game together.
+Write some parody lyrics.
+
+#@funout@
+Drive randomly, starting in @watown@.
+Drive through downtown Seattle looking for adventure.
+Eat out; make a list of restaurants and roll.
+Go (window) shopping at @store@.
+Go letterboxing.
+Go on a thrift store expedition.
+Go people-watching at @park@.
+Go to Marymoor Park with the dogs.
+See a movie (make a list of current movies and roll).
+Take a road trip to Portland.
+Visit a cafe.
+Visit the @museumetc@.
+Visit the library.
+
+#@game@
+Blokus
+Boggle
+Can't Stop
+Carcassonne
+Cathedral
+Focus
+Pickomino
+Ploy
+Rummy
+Scrabble
+Ultima
+
+#@mess@
+the bedroom
+the computer room
+the garage
+
+#@museumetc@
+Asian Art Museum
+Experience Music Project
+Science Fiction Museum
+Seattle Aquarium
+Seattle Art Museum
+Woodland Park Zoo
+
+#@park@
+Occidental Park
+the Des Moines pier
+
+#@randomweb@
+RandomURL.com
+random Wikipedia pages
+random pages from H2G2
+
+#@store@
+@bookstore@
+@gamestore@
+Fry's
+Ikea
+Math'n'Stuff
+Silver Platters
+
+#@bookstore@
+Elliott Bay
+Half Price Books
+Third Place Books
+Twice-Sold Tales
+some chain bookstore that begins with 'B'
+the University Bookstore
+
+#@gamestore@
+Game Wizard
+Gary's Games and Hobbies
+Genesis Games and Gizmos
+Uncle's Games
+
+#@takeout@
+Chopsticks
+Golden Dynasty
+Jet City Pizza
+Longhorn Barbecue
+
+#@watown@
+Bellevue
+Redmond
+Renton
+Seattle
+Tacoma
+Tukwila
+
+#@webradio@
+BBC7
+KEXP
+This American Life
+
+
