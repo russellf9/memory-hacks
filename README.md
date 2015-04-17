@@ -1,2 +1,21 @@
 # memory-hacks
-A repository for my memory
+A repository for my study of memory
+
+## Source
+Based on the hacks found in: [Ron Hale-Evans. Mind Performance Hacks.](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook)
+
+
+## Dominic System
+
+_"...The Dominic System uses an easy-to-remember number-to-letter conversion and the initials of memorable people, as well as journeys that are like memory palaces..."_
+
+Links:
+
+An online list
+[dominic-number-memory-system](http://peoplebyinitials.com/p/dominic-number-memory-system)
+
+Information and dropdown lists
+[people by initials](http://peoplebyinitials.com)
+
+Actors initials
+[initials_of_characters_and_actors](http://www.creative-remembering-techniques.com/initials_of_characters_and_actors.html)
