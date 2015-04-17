@@ -2,13 +2,13 @@
 
 ----------------------------------------------------------------------
 
-01 = OA = Orphan Annie
+01 = OA = [Orphan Annie](http://en.wikipedia.org/wiki/Little_Orphan_Annie)
 
 02 = OB = [Otto Bismark](http://en.wikipedia.org/wiki/Otto_von_Bismarck)
 
 03 = OC = Oliver Cromwell
 
-04 = OD = Jimi Hendrix, shooting up heroin (OD'ing)
+04 = OD = [Otto Dix](http://en.wikipedia.org/wiki?curid=22351) German painter and printmaker
 
 05 = OE = [Oscar Egg](http://en.wikipedia.org/wiki?curid=10185512)
 
@@ -81,7 +81,7 @@
 
 36 = CS = Carl Sagan
 
-37 = CG = [Charlotte Gainsbourg](http://en.wikipedia.org/wiki?curid=101721) Che Guevara
+37 = CG = Che Guevara
 
 38 = CH = Charlie Higson
 
@@ -111,21 +111,21 @@
 
 ----------------------------------------------------------------------
 
-50 = EO = [Eddy Ottoz](http://en.wikipedia.org/wiki/Eddy_Ottoz)
+50 = EO = [Eddy Ottoz](http://en.wikipedia.org/wiki/Eddy_Ottoz), an Italian athlete, who one a bronze medal at the 1968 Summer Olympics in the 110 metre hurdles.
 
-51 = EA = ?
+51 = EA = [Emmanuel Adebayor](http://en.wikipedia.org/wiki?curid=2604793) Former Togolese and Arsenal striker
 
 52 = EB = Eva Braun
 
 53 = EC = Elvis Costello, 
 
-54 = ED = [Emily Dickinson](http://en.wikipedia.org/wiki?curid=159275) [Eliza Doolittle](http://en.wikipedia.org/wiki/Eliza_Doolittle)
+54 = ED = [Eliza Doolittle](http://en.wikipedia.org/wiki/Eliza_Doolittle)
 
 55 = EE = [Edward Elgar](http://en.wikipedia.org/wiki/Edward_Elgar)
 
 56 = ES = [Egon Schiele](http://en.wikipedia.org/wiki?curid=50835)
 
-57 = EG = [Emmy the Great](http://en.wikipedia.org/wiki?curid=4724491) Eric Gill [Edward Stanley Gibbons](http://en.wikipedia.org/wiki?curid=464928)
+57 = EG = [Edward Stanley Gibbons](http://en.wikipedia.org/wiki?curid=464928)
 
 58 = EH = [Ernest Hemingway](http://en.wikipedia.org/wiki?curid=9428)
 
@@ -139,7 +139,7 @@
 
 62 = SB = [Samuel Beckett](http://en.wikipedia.org/wiki/Samuel_Beckett)
 
-63 = SC = [Sean Connery](http://en.wikipedia.org/wiki?curid=26709) [Sophie Calle](http://en.wikipedia.org/wiki?curid=884214) 
+63 = SC = [Sean Connery](http://en.wikipedia.org/wiki?curid=26709)
 
 64 = SD = [Sammy Davis Jr.](http://en.wikipedia.org/wiki?curid=194551)
 
@@ -163,7 +163,7 @@
 
 73 = GC = [Gaius Caesar](http://en.wikipedia.org/wiki?curid=15924)
 
-74 = GD = GoD ?
+74 = GD = GoD? Charles de Gaulle? [Glenn Davis](http://en.wikipedia.org/wiki?curid=31014681) Davis created [Cool Site of the Day](http://en.wikipedia.org/wiki/Cool_Site_of_the_Day) in August 1994.
 
 75 = GE = [Gustave Eiffel](http://en.wikipedia.org/wiki?curid=12232)
 
@@ -171,7 +171,7 @@
 
 77 = GG = [Galileo Galilei](http://en.wikipedia.org/wiki?curid=29688374)
 
-78 = GH = George Harrison [Gary Hume](http://en.wikipedia.org/wiki?curid=208080)?
+78 = GH = George Harrison
 
 79 = GN = [Gary Numan](http://en.wikipedia.org/wiki/Gary_Numan)
 
@@ -185,7 +185,7 @@
 
 83 = HC = [Hillary Clinton](http://en.wikipedia.org/wiki?curid=5043192)
 
-84 = HD = [Howard Devoto](http://en.wikipedia.org/wiki/Howard_Devoto) [Hugh Dennis](http://en.wikipedia.org/wiki?curid=266433)?
+84 = HD = [Howard Devoto](http://en.wikipedia.org/wiki/Howard_Devoto)
 
 85 = HE = [Harry Enfield](http://en.wikipedia.org/wiki?curid=38042)
 
@@ -217,4 +217,4 @@
 
 98 = NH = [Neil Hamilton (politician)](http://en.wikipedia.org/wiki?curid=158224)
 
-99 = NN = Nicholas Nickleby (Dickens)?
+99 = NN = [Nicholas Nickleby (Dickens)](http://en.wikipedia.org/wiki/Nicholas_Nickleby)

@@ -13,6 +13,10 @@ When creating my own mnemonic for the dominic system I largely based in on the R
 
 My compiled list is at: [dominic-template](dominic-system/dominic_template.md)
 
+I made a list pertinent to me including plenty of visual artists and musicians and includes famous people who I find amusing.
+
+For a few initials I had some real difficulty finding people I knew, so I added those with memorable humorous names. For instance:  05 = OE = [Oscar Egg](http://en.wikipedia.org/wiki?curid=10185512) a Olympic cyclist.
+
 ### Links:
 
 An online list
