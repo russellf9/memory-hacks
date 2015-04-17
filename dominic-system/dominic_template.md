@@ -14,7 +14,7 @@
 
 06 = OS = Omar Sharif
 
-07 = OG = Oliver Goldsmith [Otto Gross](http://en.wikipedia.org/wiki?curid=6010829)
+07 = OG = [Otto Gross](http://en.wikipedia.org/wiki?curid=6010829) An Austrian psychoanalyst, ... influenced D. H. Lawrence (through Gross's affair with Frieda von Richthofen)
 
 08 = OH = [Oliver Hardy](http://en.wikipedia.org/wiki?curid=84345)
 
@@ -55,7 +55,7 @@
 
 24 = BD = Bo Derek
 
-25 = BE = Brian Eno, Bret Ellis
+25 = BE = Brian Eno, Bret (Easton) Ellis
 
 26 = BS = Bart Simpson
 
