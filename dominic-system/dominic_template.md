@@ -22,7 +22,7 @@
 
 ----------------------------------------------------------------------
 
-10 = AO = [Anita O'Day](http://en.wikipedia.org/wiki/Anita_O'Day)
+10 = AO = [Aristotle Onassis](http://en.wikipedia.org/wiki?curid=155033)
 
 11 = AA = Adam Ant
 
@@ -49,7 +49,7 @@
 
 21 = BA = Buzz Aldrin
 
-22 = BB = Brigitte Bardot
+22 = BB = [Brigitte Bardot](http://en.wikipedia.org/wiki/Brigitte_Bardot)
 
 23 = BC = Barbara Cartland
 
@@ -63,7 +63,7 @@
 
 28 = BH = Billie Holiday
 
-29 = BN = [Barnett Newman](http://en.wikipedia.org/wiki?curid=238470)
+29 = BN = [Barnett Newman](http://en.wikipedia.org/wiki?curid=238470) - Painting: [Adam ](http://www.tate.org.uk/art/artworks/newman-adam-t01091)
 
 ----------------------------------------------------------------------
 
@@ -147,7 +147,7 @@
 
 66 = SS = [Siouxsie Sioux](http://en.wikipedia.org/wiki/Siouxsie_Sioux )[Simon Schama](http://en.wikipedia.org/wiki?curid=474562)
 
-67 = SG = [Steffi Graf](http://en.wikipedia.org/wiki?curid=164640)
+67 = SG = [SSteffi Graf](http://en.wikipedia.org/wiki?curid=164640)
 
 68 = SH = [Stephen Hawking](http://en.wikipedia.org/wiki?curid=19376148)
 
