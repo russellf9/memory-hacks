@@ -1,23 +1,40 @@
+## NUMBERS TO LETTERS CYPHER
+
+0 - O
+
+1 - A
+
+2 - B
+
+3 - C
+
+4 - D
+
+5 - E
+
+6 - S
+
+7 - G
+
+8 - H
+
+9 - N
+
+## Famous People
+
+
 00 = OO = Ozzy Osbourne 
 
 ----------------------------------------------------------------------
 
 01 = OA = [Orphan Annie](http://en.wikipedia.org/wiki/Little_Orphan_Annie)
-
 02 = OB = [Otto Bismark](http://en.wikipedia.org/wiki/Otto_von_Bismarck)
-
 03 = OC = Oliver Cromwell
-
 04 = OD = [Otto Dix](http://en.wikipedia.org/wiki?curid=22351) German painter and printmaker
-
 05 = OE = [Oscar Egg](http://en.wikipedia.org/wiki?curid=10185512)
-
 06 = OS = Omar Sharif
-
 07 = OG = [Otto Gross](http://en.wikipedia.org/wiki?curid=6010829) An Austrian psychoanalyst, ... influenced D. H. Lawrence (through Gross's affair with Frieda von Richthofen)
-
 08 = OH = [Oliver Hardy](http://en.wikipedia.org/wiki?curid=84345)
-
 09 = ON = Oliver North
 
 ----------------------------------------------------------------------
@@ -147,7 +164,7 @@
 
 66 = SS = [Siouxsie Sioux](http://en.wikipedia.org/wiki/Siouxsie_Sioux )[Simon Schama](http://en.wikipedia.org/wiki?curid=474562)
 
-67 = SG = [SSteffi Graf](http://en.wikipedia.org/wiki?curid=164640)
+67 = SG = [Steffi Graf](http://en.wikipedia.org/wiki?curid=164640)
 
 68 = SH = [Stephen Hawking](http://en.wikipedia.org/wiki?curid=19376148)
 
