@@ -28,6 +28,7 @@
 ----------------------------------------------------------------------
 
 01 = OA = [Orphan Annie](http://en.wikipedia.org/wiki/Little_Orphan_Annie)
+
 02 = OB = [Otto Bismark](http://en.wikipedia.org/wiki/Otto_von_Bismarck)
 03 = OC = Oliver Cromwell
 04 = OD = [Otto Dix](http://en.wikipedia.org/wiki?curid=22351) German painter and printmaker
