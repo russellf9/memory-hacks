@@ -11,7 +11,19 @@ _"...The Dominic System uses an easy-to-remember number-to-letter conversion and
 
 The first step for this to work is to remember the the keys from 0 to 9.
 
-The letters a to h are used to represent the numbers 1 to 8, with the exceptions that `S` represents 6, (S being the first letter if six). And, the additions of O for 0 and 9 for nine.
+The letters a to h are used to represent the numbers 1 to 8, with the exceptions that `S` represents 6, (S being the first letter if six). And, the additions of O for 0 and N for nine.
+
+O - 0
+A - 1
+B - 2
+C - 3
+D - 4
+E - 5
+S - 6
+G - 7
+H - 8
+N - 9
+
 
 When creating my own mnemonic for the dominic system I largely based in on the Ron Hale-Evans' template [mnemonics_public.txt](dominic-system/mnemonics_public.txt), finding suitable replacements which focus on my interests of music and art.
 
