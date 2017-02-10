@@ -16,6 +16,7 @@ The letters a to h are used to represent the numbers 1 to 8, with the exceptions
 O - 0
 
 A - 1
+
 B - 2
 C - 3
 D - 4
