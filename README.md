@@ -14,6 +14,7 @@ The first step for this to work is to remember the the keys from 0 to 9.
 The letters a to h are used to represent the numbers 1 to 8, with the exceptions that `S` represents 6, (S being the first letter if six). And, the additions of O for 0 and N for nine.
 
 O - 0
+
 A - 1
 B - 2
 C - 3
